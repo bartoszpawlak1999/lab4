@@ -1,0 +1,38 @@
+.navbar 
+{
+        margin-bottom: 0;
+        border-radius: 0;
+}
+    
+.row.content
+{
+    height: 450px
+}
+
+.sidenav
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    height: 100%;
+}
+
+#logo
+{
+    max-height:30px;
+}
+
+footer
+{
+    background-color: #c0a197;
+}
+.container{
+    height: auto;
+}
+#lista{
+    height: 250px;
+}
+.item > img{
+    max-height: 3000px;
+    width: 2000px;
+}
